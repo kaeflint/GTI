@@ -2,5 +2,5 @@ This repository contains the source code paper for our paper:  Gated Task Intera
 We use the GLOVE word embedding which can be downloaded by using a simple downloader: https://github.com/chakki-works/chakin
 ## Figures
 ![alt text]( Figure_board.jpg "Logo Title Text 1")
-![alt text]( Figure_board (1).jpg "Logo Title Text 1")
+![alt text]( tasks_2_mtl.jpg "Logo Title Text 1")
 ## Dataset
